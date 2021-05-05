@@ -1,0 +1,20 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+- name: planets.txt
+  visible: true
+  learner_created: true
+- name: animals.txt
+  visible: true
+  learner_created: true
+- name: animals_new.txt
+  visible: true
+  learner_created: true
+status: Solved
+record: -1
+post_submission_on_open: true
